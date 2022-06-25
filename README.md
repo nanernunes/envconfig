@@ -44,10 +44,10 @@ import (
 )
 
 type Entity struct {
-	Host string
-	Port int
-	Live bool
-	Dead bool
+    Host string
+    Port int
+    Live bool
+    Dead bool
 }
 
 func main() {
@@ -75,9 +75,9 @@ export JUST=alone
 
 ```go
 type Entity struct {
-	Text string `default:"example"`
-	TheZ string `underscore:"false"`
-	Just string `env:"JUST"`
+    Text string `default:"example"`
+    TheZ string `underscore:"false"`
+    Just string `env:"JUST"`
 }
 ```
 
