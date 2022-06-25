@@ -5,3 +5,6 @@ test:
 
 cover:
 	@$(GOCMD) test -v ./... -coverprofile=coverage.txt -covermode=atomic
+
+deps:
+	@$(GOCMD) mod download
