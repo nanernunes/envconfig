@@ -1,0 +1,17 @@
+mode: atomic
+github.com/nanernunes/envconfig/case.go:13.45,17.2 3 10
+github.com/nanernunes/envconfig/envs.go:11.53,15.40 2 1
+github.com/nanernunes/envconfig/envs.go:78.2,78.12 1 1
+github.com/nanernunes/envconfig/envs.go:15.40,21.9 4 7
+github.com/nanernunes/envconfig/envs.go:40.3,43.18 3 7
+github.com/nanernunes/envconfig/envs.go:47.3,50.17 3 7
+github.com/nanernunes/envconfig/envs.go:21.9,23.4 1 1
+github.com/nanernunes/envconfig/envs.go:23.9,29.20 4 6
+github.com/nanernunes/envconfig/envs.go:33.4,37.5 1 6
+github.com/nanernunes/envconfig/envs.go:29.20,31.5 1 1
+github.com/nanernunes/envconfig/envs.go:43.18,45.4 1 1
+github.com/nanernunes/envconfig/envs.go:52.23,53.27 1 4
+github.com/nanernunes/envconfig/envs.go:55.79,57.25 2 1
+github.com/nanernunes/envconfig/envs.go:59.41,61.27 2 0
+github.com/nanernunes/envconfig/envs.go:63.21,65.26 2 2
+github.com/nanernunes/envconfig/envs.go:67.11,72.6 1 0
